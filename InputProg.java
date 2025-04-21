@@ -7,7 +7,5 @@ public class InputProg{
         System.out.print("Enter a number: ");
         number = sc.nextInt();
         System.out.println("The entered no. is: " + number);
-
-        sc.close();
     }
 }
