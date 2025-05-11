@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "typecasting",
+            "request": "launch",
+            "mainClass": "typecasting",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "Bool",
+            "request": "launch",
+            "mainClass": "Bool",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "Byte2",
+            "request": "launch",
+            "mainClass": "Byte2",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "Byte",
             "request": "launch",
             "mainClass": "Byte",
