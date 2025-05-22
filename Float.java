@@ -7,5 +7,7 @@ public class Float{
         System.out.print("Enter a float number: ");
         num = sc.nextFloat();
         System.out.println("You entered: " + num);
+
+        sc.close();
     }
 }

@@ -12,5 +12,7 @@ public class stringconcat{
         
         c = a + " " + b;
         System.out.println("Concatenated string: " + c);
+
+        sc.close();
     }
 }

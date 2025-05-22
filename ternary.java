@@ -10,5 +10,7 @@ public class ternary{
 
         String b = (a >= 50) ? "The number entered is greater than or equal to 50" : "The number entered is less than 50";
         System.out.println(b);
+
+        sc.close();
     }
 }

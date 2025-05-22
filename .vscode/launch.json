@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "logicaloperators",
+            "request": "launch",
+            "mainClass": "logicaloperators",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "stringconcat",
             "request": "launch",
             "mainClass": "stringconcat",

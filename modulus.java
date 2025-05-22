@@ -13,5 +13,7 @@ public class modulus{
 
         System.out.println("Modulus of " + a + " with 10 is "+ a % 10);
         System.out.println("Modulus of " + b + " with 10 is "+ b / 10);
+
+        sc.close();
     }
 }

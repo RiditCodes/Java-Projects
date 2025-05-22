@@ -12,5 +12,7 @@ public class square{
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
