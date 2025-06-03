@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Comparison",
+            "request": "launch",
+            "mainClass": "Comparison",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "Conversion",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "MyCalendar",
+            "request": "launch",
+            "mainClass": "MyCalendar",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "logicaloperators",
             "request": "launch",
             "mainClass": "logicaloperators",
