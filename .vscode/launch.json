@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringsort",
+            "request": "launch",
+            "mainClass": "stringsort",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "equals",
             "request": "launch",
             "mainClass": "equals",
