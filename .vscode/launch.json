@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "absmethod",
+            "request": "launch",
+            "mainClass": "absmethod",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "parsing",
+            "request": "launch",
+            "mainClass": "parsing",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "parseint",
+            "request": "launch",
+            "mainClass": "parseint",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "valueofprog",
+            "request": "launch",
+            "mainClass": "valueofprog",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "valueof",
+            "request": "launch",
+            "mainClass": "valueof",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "stringsort",
             "request": "launch",
             "mainClass": "stringsort",
