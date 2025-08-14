@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "floor",
+            "request": "launch",
+            "mainClass": "floor",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "ceil",
+            "request": "launch",
+            "mainClass": "ceil",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "tostring",
+            "request": "launch",
+            "mainClass": "tostring",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "absmethod",
             "request": "launch",
             "mainClass": "absmethod",
