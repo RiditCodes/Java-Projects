@@ -6,7 +6,7 @@ public class floor{
         System.out.print("Enter a number:");
         double num = sc.nextDouble();
         double floor = Math.floor(num);
-        System.out.println("Double of " + num + " is: " + floor);
+        System.out.println("Floor of " + num + " is: " + floor);
 
         double num2 = Math.floor(10);
         double num3 = Math.floor(10.1);

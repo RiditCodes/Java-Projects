@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "charat",
+            "request": "launch",
+            "mainClass": "charat",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "charadd",
+            "request": "launch",
+            "mainClass": "charadd",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "compare",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "round",
+            "request": "launch",
+            "mainClass": "round",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "rint",
+            "request": "launch",
+            "mainClass": "rint",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "floor",
             "request": "launch",
             "mainClass": "floor",
