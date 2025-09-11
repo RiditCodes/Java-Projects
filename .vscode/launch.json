@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "toChararray",
+            "request": "launch",
+            "mainClass": "toChararray",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "doublequote",
+            "request": "launch",
+            "mainClass": "doublequote",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "charat",
             "request": "launch",
             "mainClass": "charat",
