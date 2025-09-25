@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "arrayinit",
+            "request": "launch",
+            "mainClass": "arrayinit",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "compare2",
+            "request": "launch",
+            "mainClass": "compare2",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "toLowercase",
+            "request": "launch",
+            "mainClass": "toLowercase",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "isLowercase",
+            "request": "launch",
+            "mainClass": "isLowercase",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "isWhitespace",
+            "request": "launch",
+            "mainClass": "isWhitespace",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "isDigit",
+            "request": "launch",
+            "mainClass": "isDigit",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "isLetter",
+            "request": "launch",
+            "mainClass": "isLetter",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "toChararray",
             "request": "launch",
             "mainClass": "toChararray",
