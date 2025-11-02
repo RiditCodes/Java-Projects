@@ -21,7 +21,7 @@ public class array4{
         int insertele = sc.nextInt();
 
         System.out.print("Enter the position: ");
-        int insertpos = sc.nextInt();
+        int insertpos = sc.nextInt() - 1;
 
         int newArray[] = new int[size1 + 1];
 
