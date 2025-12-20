@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringcompare",
+            "request": "launch",
+            "mainClass": "stringcompare",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "stringconcat2",
+            "request": "launch",
+            "mainClass": "stringconcat2",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "compareToIgnoreCaseMethod",
+            "request": "launch",
+            "mainClass": "compareToIgnoreCaseMethod",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
+            "name": "StringObject",
+            "request": "launch",
+            "mainClass": "StringObject",
+            "projectName": "Java-Projects_d4df4f79"
+        },
+        {
+            "type": "java",
             "name": "string1",
             "request": "launch",
             "mainClass": "string1",
