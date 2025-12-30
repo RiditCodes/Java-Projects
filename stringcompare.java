@@ -4,7 +4,6 @@ class stringcompare{
         String str2 = "Computer";
         String str3 = new String("Computer");
 
-
         System.out.println("Using '==':");
         System.out.println(str1 == str2);
         System.out.println(str1 == str3);
