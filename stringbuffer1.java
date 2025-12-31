@@ -1,4 +1,4 @@
-class stringbuffer{
+class stringbuffer1{
     public static void main(String args[]){
         StringBuffer str1 = new StringBuffer();
         StringBuffer str2 = new StringBuffer(50);
