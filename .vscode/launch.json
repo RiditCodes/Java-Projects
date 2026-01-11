@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ensureCapacity2",
+            "request": "launch",
+            "mainClass": "ensureCapacity2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "ensureCapacity",
+            "request": "launch",
+            "mainClass": "ensureCapacity",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "stringbuffer1",
             "request": "launch",
             "mainClass": "stringbuffer1",
