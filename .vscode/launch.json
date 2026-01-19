@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringbuffer4",
+            "request": "launch",
+            "mainClass": "stringbuffer4",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "stringbuffer3",
+            "request": "launch",
+            "mainClass": "stringbuffer3",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "stringbuilder2",
+            "request": "launch",
+            "mainClass": "stringbuilder2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "ensureCapacity2",
             "request": "launch",
             "mainClass": "ensureCapacity2",
