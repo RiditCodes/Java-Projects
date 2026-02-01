@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vector2",
+            "request": "launch",
+            "mainClass": "vector2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "vector",
+            "request": "launch",
+            "mainClass": "vector",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Vector",
+            "request": "launch",
+            "mainClass": "Vector",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "getChars2",
+            "request": "launch",
+            "mainClass": "getChars2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "getChars",
+            "request": "launch",
+            "mainClass": "getChars",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "setLength2",
+            "request": "launch",
+            "mainClass": "setLength2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "setLength",
+            "request": "launch",
+            "mainClass": "setLength",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "stringbuffer4",
             "request": "launch",
             "mainClass": "stringbuffer4",
