@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vector4",
+            "request": "launch",
+            "mainClass": "vector4",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Vector3",
+            "request": "launch",
+            "mainClass": "Vector3",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "vector3",
+            "request": "launch",
+            "mainClass": "vector3",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "vector2",
             "request": "launch",
             "mainClass": "vector2",
