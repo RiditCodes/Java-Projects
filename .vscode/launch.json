@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pascal_triangle",
+            "request": "launch",
+            "mainClass": "pascal_triangle",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Instructor",
+            "request": "launch",
+            "mainClass": "Instructor",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Developer",
+            "request": "launch",
+            "mainClass": "Developer",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "vector5",
+            "request": "launch",
+            "mainClass": "vector5",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "vector4",
             "request": "launch",
             "mainClass": "vector4",
