@@ -42,13 +42,3 @@ public class pascal_triangle {
         sc.close();
     }
 }
-/*     
-        1 
-       1 1 
-      1 2 1 
-     1 3 3 1 
-    1 4 6 4 1 
-   1 5 10 10 5 1 
-(Row 7 is skipped)
- 1 0 0 0 0 0 0 1 
-*/

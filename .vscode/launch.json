@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Comparenumber",
+            "request": "launch",
+            "mainClass": "Comparenumber",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Compare",
+            "request": "launch",
+            "mainClass": "Compare",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "Calculate",
+            "request": "launch",
+            "mainClass": "Calculate",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "pascal_triangle2",
             "request": "launch",
             "mainClass": "pascal_triangle2",
