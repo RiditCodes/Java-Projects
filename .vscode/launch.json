@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SuperMethod2",
+            "request": "launch",
+            "mainClass": "SuperMethod2",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "SuperMethod",
+            "request": "launch",
+            "mainClass": "SuperMethod",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "constructor_deconstructor",
+            "request": "launch",
+            "mainClass": "constructor_deconstructor",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "inheritance10",
             "request": "launch",
             "mainClass": "inheritance10",
