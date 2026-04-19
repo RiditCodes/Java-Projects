@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aggregation",
+            "request": "launch",
+            "mainClass": "Aggregation",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "array11",
+            "request": "launch",
+            "mainClass": "array11",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
+            "name": "array8",
+            "request": "launch",
+            "mainClass": "array8",
+            "projectName": "Java-Projects_7f30eeb8"
+        },
+        {
+            "type": "java",
             "name": "SuperMethod2",
             "request": "launch",
             "mainClass": "SuperMethod2",

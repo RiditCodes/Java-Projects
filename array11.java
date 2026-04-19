@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class array8 {
+public class array11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,19 +18,19 @@ public class array8 {
             System.out.print(num + " ");
         }
 
-        int max = 0;
-        int secondmax = 0;
+        int min = array[0];
+        int secondmin = array[size - 1];
 
         for (int number : array) {
-            if (number > max) {
-                secondmax = max;
-                max = number;
-            } else if (number < max && number > secondmax) {
-                secondmax = number;
+            if (number < min) {
+                secondmin = min;
+                min = number;
+            } else if (number > min && number < secondmin) {
+                secondmin = number;
             }
         }
 
-        System.out.println("\nSecond highest element: " + secondmax);
+        System.out.println("\nSecond lowest element: " + secondmin);
 
         sc.close();
     }

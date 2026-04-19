@@ -12,5 +12,6 @@ public class constructor_deconstructor implements AutoCloseable{
         try(constructor_deconstructor d = new constructor_deconstructor()){
             System.out.println("Reading book...");
         }
+        System.out.println("Done.");
     }
 }
